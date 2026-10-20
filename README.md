@@ -1,6 +1,8 @@
 # Orbit Sweep
 
-![Orbit Sweep gameplay](media/gameplay.gif)
+![Animated preview of Orbit Sweep: the ship collects gold orbs, dashes through red drones and triggers screen shake and score pops](media/orbit-sweep.webp)
+
+Full-quality video: [media/gameplay-juice.mp4](media/gameplay-juice.mp4)
 
 Orbit Sweep is a small top-down arcade game built with Phaser 4.2.1. You fly a ship, collect gold orbs to build a combo, and press Space to dash through red drones. You have three lives, and drones spawn faster the longer you survive. Everything is drawn in code, with no image files. The game-feel layer (screen shake, hit-stop, squash and stretch, number pops) can be turned off with a URL flag, so you can compare the two versions side by side.
 
